@@ -1,0 +1,57 @@
+{
+  "code": "BUCHEON-SOSA",
+  "title": "SMASH BUCHEON SOSA",
+  "school": "부천대",
+  "fullName": "부천대학교",
+  "campusName": "부천대학교 소사캠퍼스",
+  "tagline": "부천대를 부셔 (시험기간 스트레스 해소)",
+  "description": "부천대학교 소사캠퍼스를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 부천대학교 소사캠퍼스 3D 화면과 SMASH BUCHEON SOSA 제목",
+  "url": "https://hong-iron.github.io/SMASH-BUCHEON-SOSA/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 1107880807
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        37.4640499,
+        126.8018448
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 이름도 층수도 없는 브이월드 옛 도형으로, 사진에서는 정문 회전교차로 가장자리와 길가 풀 비탈만 보이고 건물 지붕이 없다."
+    },
+    {
+      "at": [
+        37.4640358,
+        126.8019215
+      ],
+      "n": "",
+      "why": "항공사진에 없음 — 3번과 거의 같은 자리에 겹친 이름 없는 브이월드 옛 도형으로, 사진에서는 회전교차로 옆 보도와 풀 비탈만 있고 건물이 없다."
+    }
+  ],
+  "look": {
+    "1동 공학강의동": {
+      "style": "stone",
+      "wall": "#b9b5ae",
+      "glass": "#4f6d82",
+      "frame": "#8d9196"
+    },
+    "2동 기숙사": {
+      "style": "dorm",
+      "wall": "#a09f9b",
+      "glass": "#4a7791",
+      "frame": "#8a8c8e"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
